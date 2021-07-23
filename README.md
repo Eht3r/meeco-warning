@@ -10,3 +10,5 @@
 pip install beautifulsoup4
 pip install requests
 ```
+
+사용시 코드의 주석을 참고해서 설정을 하고 사용해 줏요.
